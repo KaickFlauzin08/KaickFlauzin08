@@ -2,7 +2,9 @@
 
 ### 💻 Sobre mim
 🎯 Interessado em **programação**, **tecnologia** e **desenvolvimento de software**
+
 📚 Atualmente cursando o **ensino médio**
+
 🧠 Em constante aprendizado e evolução
 
 ### 🛠️ Tecnologias que estou aprendendo

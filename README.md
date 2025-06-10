@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Kaick (@Kaick-Flauzino)
+## 👋 Olá, eu sou o Kaick (@KaickFlauzin08)
 
 ### 💻 Sobre mim
 🎯 Interessado em **programação**, **tecnologia** e **desenvolvimento de software**

@@ -20,9 +20,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayky-ctrl&show_icons=true&theme=tokyonight)
+![KaickFlauzin08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaickFlauzin08&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 👀 Visitantes
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=kayky-ctrl&color=blue)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=KaickFlauzin08&color=blue)

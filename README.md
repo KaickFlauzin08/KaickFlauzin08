@@ -20,6 +20,7 @@
 
 💪 Pratico **atividades fisicas**
 
+🎮 Jogador **casual**
 ---
 
 ### 📊 GitHub Stats

@@ -27,10 +27,6 @@
 ### 📫 Contato
 ✉️ Email: **kaickflauzino7@gmail.com**
 
-
-### 📊 GitHub Stats
-![KaickFlauzin08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaickFlauzin08&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 👀 Visitantes

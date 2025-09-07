@@ -15,19 +15,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
-https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light
+## 🛠️ Ferramentas Utilizadas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
 
 ### 📫 Contato
 ✉️ Email: **kaickflauzino7@gmail.com**
 
-### ⚡ Curiosidades
-🏀 Jogo **basquete**
-
-💪 Pratico **atividades fisicas**
-
-🎮 Jogador **casual**
-
----
 
 ### 📊 GitHub Stats
 ![KaickFlauzin08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaickFlauzin08&show_icons=true&theme=tokyonight)

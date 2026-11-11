@@ -119,9 +119,6 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:kaickflauzino7@gmail.com">
-    <img src="https://img.shields.io/badge/email-kaickflauzino7%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Enviar email" />
-  </a>
   <a href="https://github.com/KaickFlauzin08">
     <img src="https://img.shields.io/badge/github-KaickFlauzin08-181717?style=for-the-badge&logo=github" alt="Perfil no GitHub" />
   </a>
